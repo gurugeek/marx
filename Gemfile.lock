@@ -117,6 +117,7 @@ DEPENDENCIES
   middleman-autoprefixer
   middleman-deploy (~> 2.0.0.pre.alpha)
   middleman-minify-html
+  rack (>= 1.6.11)
 
 BUNDLED WITH
-   1.16.1
+   1.17.3

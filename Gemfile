@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "nokogiri", ">= 1.8.5"
 gem 'middleman'
 gem 'middleman-autoprefixer'
 gem 'middleman-minify-html'
